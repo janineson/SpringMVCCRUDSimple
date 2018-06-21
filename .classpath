@@ -1,0 +1,352 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="melibrary.com.genuitec.eclipse.j2eedt.core.MYECLIPSE_JAVAEE_5_CONTAINER">
+		<attributes>
+			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="melibrary.com.genuitec.eclipse.lib.spring3.MYECLIPSE_SPRING30_CORE">
+		<attributes>
+			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="melibrary.com.genuitec.eclipse.lib.spring3.MYECLIPSE_SPRING30_Persistence_JDBC">
+		<attributes>
+			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="melibrary.com.genuitec.eclipse.lib.spring3.MYECLIPSE_SPRING30_Persistence_CORE">
+		<attributes>
+			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="melibrary.com.genuitec.eclipse.lib.spring3.MYECLIPSE_SPRING30_AOP">
+		<attributes>
+			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="melibrary.com.genuitec.eclipse.lib.spring3.MYECLIPSE_SPRING30_WEB">
+		<attributes>
+			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/jre1.8.0_161">
+		<attributes>
+			<attribute name="owner.project.facets" value="java"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jst.server.core.container/org.eclipse.jst.server.tomcat.runtimeTarget/Apache Tomcat v9.0">
+		<attributes>
+			<attribute name="owner.project.facets" value="jst.web"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.web.container"/>
+	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.module.container"/>
+	<classpathentry kind="lib" path="C:/Users/Janine/Desktop/SpringMVCCRUDSimple/WebContent/WEB-INF/lib/aop/com.springsource.net.sf.cglib-2.2.0.jar">
+		<attributes>
+			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/Janine/Desktop/SpringMVCCRUDSimple/WebContent/WEB-INF/lib/aop/com.springsource.org.aopalliance-1.0.0.jar">
+		<attributes>
+			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/Janine/Desktop/SpringMVCCRUDSimple/WebContent/WEB-INF/lib/aop/com.springsource.org.aspectj.weaver-1.6.8.RELEASE.jar">
+		<attributes>
+			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/Janine/Desktop/SpringMVCCRUDSimple/WebContent/WEB-INF/lib/aop/org.springframework.aop-3.0.1.RELEASE-A.jar">
+		<attributes>
+			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/Janine/Desktop/SpringMVCCRUDSimple/WebContent/WEB-INF/lib/aop/org.springframework.aspects-3.0.1.RELEASE-A.jar">
+		<attributes>
+			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/Janine/Desktop/SpringMVCCRUDSimple/WebContent/WEB-INF/lib/aop/org.springframework.instrument.tomcat-3.0.1.RELEASE-A.jar">
+		<attributes>
+			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/Janine/Desktop/SpringMVCCRUDSimple/WebContent/WEB-INF/lib/aop/org.springframework.instrument-3.0.1.RELEASE-A.jar">
+		<attributes>
+			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/Janine/Desktop/SpringMVCCRUDSimple/WebContent/WEB-INF/lib/core/com.springsource.org.apache.commons.logging-1.1.1.jar">
+		<attributes>
+			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/Janine/Desktop/SpringMVCCRUDSimple/WebContent/WEB-INF/lib/core/com.springsource.org.apache.log4j-1.2.15.jar">
+		<attributes>
+			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/Janine/Desktop/SpringMVCCRUDSimple/WebContent/WEB-INF/lib/core/jmxtools-1.2.1.jar">
+		<attributes>
+			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/Janine/Desktop/SpringMVCCRUDSimple/WebContent/WEB-INF/lib/core/org.springframework.asm-3.0.1.RELEASE-A.jar">
+		<attributes>
+			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/Janine/Desktop/SpringMVCCRUDSimple/WebContent/WEB-INF/lib/core/org.springframework.beans-3.0.1.RELEASE-A.jar">
+		<attributes>
+			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/Janine/Desktop/SpringMVCCRUDSimple/WebContent/WEB-INF/lib/core/org.springframework.context-3.0.1.RELEASE-A.jar">
+		<attributes>
+			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/Janine/Desktop/SpringMVCCRUDSimple/WebContent/WEB-INF/lib/core/org.springframework.core-3.0.1.RELEASE-A.jar">
+		<attributes>
+			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/Janine/Desktop/SpringMVCCRUDSimple/WebContent/WEB-INF/lib/core/org.springframework.expression-3.0.1.RELEASE-A.jar">
+		<attributes>
+			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/Janine/Desktop/SpringMVCCRUDSimple/WebContent/WEB-INF/lib/ibatis/com.springsource.com.ibatis-2.3.4.726.jar">
+		<attributes>
+			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/Janine/Desktop/SpringMVCCRUDSimple/WebContent/WEB-INF/lib/j2ee/org.springframework.jms-3.0.1.RELEASE-A.jar">
+		<attributes>
+			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/Janine/Desktop/SpringMVCCRUDSimple/WebContent/WEB-INF/lib/javaconfig/org.springframework.config.java-1.0.0.M4.jar">
+		<attributes>
+			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/Janine/Desktop/SpringMVCCRUDSimple/WebContent/WEB-INF/lib/javaconfig/spring-javaconfig.jar">
+		<attributes>
+			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/Janine/Desktop/SpringMVCCRUDSimple/WebContent/WEB-INF/lib/misc/com.springsource.bsh-2.0.0.b4.jar">
+		<attributes>
+			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/Janine/Desktop/SpringMVCCRUDSimple/WebContent/WEB-INF/lib/misc/com.springsource.commonj-1.1.0.jar">
+		<attributes>
+			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/Janine/Desktop/SpringMVCCRUDSimple/WebContent/WEB-INF/lib/misc/com.springsource.edu.emory.mathcs.backport-3.0.0.jar">
+		<attributes>
+			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/Janine/Desktop/SpringMVCCRUDSimple/WebContent/WEB-INF/lib/misc/com.springsource.org.codehaus.groovy-1.6.5.jar">
+		<attributes>
+			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/Janine/Desktop/SpringMVCCRUDSimple/WebContent/WEB-INF/lib/misc/com.springsource.org.jruby-1.4.0.jar">
+		<attributes>
+			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/Janine/Desktop/SpringMVCCRUDSimple/WebContent/WEB-INF/lib/misc/com.springsource.org.quartz-1.6.2.jar">
+		<attributes>
+			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/Janine/Desktop/SpringMVCCRUDSimple/WebContent/WEB-INF/lib/misc/jamon-2.7.jar">
+		<attributes>
+			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/Janine/Desktop/SpringMVCCRUDSimple/WebContent/WEB-INF/lib/misc/jmxremote.jar">
+		<attributes>
+			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/Janine/Desktop/SpringMVCCRUDSimple/WebContent/WEB-INF/lib/misc/jmxremote_optional.jar">
+		<attributes>
+			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/Janine/Desktop/SpringMVCCRUDSimple/WebContent/WEB-INF/lib/misc/jmxri.jar">
+		<attributes>
+			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/Janine/Desktop/SpringMVCCRUDSimple/WebContent/WEB-INF/lib/misc/org.springframework.context.support-3.0.1.RELEASE-A.jar">
+		<attributes>
+			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/Janine/Desktop/SpringMVCCRUDSimple/WebContent/WEB-INF/lib/persistCore/org.springframework.jdbc-3.0.1.RELEASE-A.jar">
+		<attributes>
+			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/Janine/Desktop/SpringMVCCRUDSimple/WebContent/WEB-INF/lib/persistCore/org.springframework.orm-3.0.1.RELEASE-A.jar">
+		<attributes>
+			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/Janine/Desktop/SpringMVCCRUDSimple/WebContent/WEB-INF/lib/persistCore/org.springframework.transaction-3.0.1.RELEASE-A.jar">
+		<attributes>
+			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/Janine/Desktop/SpringMVCCRUDSimple/WebContent/WEB-INF/lib/persistCore/persistence.jar">
+		<attributes>
+			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/Janine/Desktop/SpringMVCCRUDSimple/WebContent/WEB-INF/lib/persistJdbc/com.springsource.com.mchange.v2.c3p0-0.9.1.2.jar">
+		<attributes>
+			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/Janine/Desktop/SpringMVCCRUDSimple/WebContent/WEB-INF/lib/persistJdbc/com.springsource.org.apache.commons.lang-2.4.0.jar">
+		<attributes>
+			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/Janine/Desktop/SpringMVCCRUDSimple/WebContent/WEB-INF/lib/persistJdbc/com.springsource.org.apache.commons.pool-1.5.3.jar">
+		<attributes>
+			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/Janine/Desktop/SpringMVCCRUDSimple/WebContent/WEB-INF/lib/persistJdbc/commons-dbcp.jar">
+		<attributes>
+			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/Janine/Desktop/SpringMVCCRUDSimple/WebContent/WEB-INF/lib/persistJdbc/jotm.jar">
+		<attributes>
+			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/Janine/Desktop/SpringMVCCRUDSimple/WebContent/WEB-INF/lib/persistJdbc/xapool.jar">
+		<attributes>
+			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/Janine/Desktop/SpringMVCCRUDSimple/WebContent/WEB-INF/lib/persistJDO/com.springsource.javax.jdo-2.1.0.jar">
+		<attributes>
+			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/Janine/Desktop/SpringMVCCRUDSimple/WebContent/WEB-INF/lib/remoting/com.springsource.com.caucho-3.2.1.jar">
+		<attributes>
+			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/Janine/Desktop/SpringMVCCRUDSimple/WebContent/WEB-INF/lib/test/com.springsource.javax.inject-1.0.0.jar">
+		<attributes>
+			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/Janine/Desktop/SpringMVCCRUDSimple/WebContent/WEB-INF/lib/test/com.springsource.org.apache.taglibs.standard-1.1.2.jar">
+		<attributes>
+			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/Janine/Desktop/SpringMVCCRUDSimple/WebContent/WEB-INF/lib/test/com.springsource.org.junit-4.7.0.jar">
+		<attributes>
+			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/Janine/Desktop/SpringMVCCRUDSimple/WebContent/WEB-INF/lib/test/com.springsource.org.testng-5.10.0.jar">
+		<attributes>
+			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/Janine/Desktop/SpringMVCCRUDSimple/WebContent/WEB-INF/lib/test/easymock.jar">
+		<attributes>
+			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/Janine/Desktop/SpringMVCCRUDSimple/WebContent/WEB-INF/lib/test/org.springframework.test-3.0.1.RELEASE-A.jar">
+		<attributes>
+			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/Janine/Desktop/SpringMVCCRUDSimple/WebContent/WEB-INF/lib/test/wstx-asl-3.2.7.jar">
+		<attributes>
+			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/Janine/Desktop/SpringMVCCRUDSimple/WebContent/WEB-INF/lib/test/xmlunit-1.2.jar">
+		<attributes>
+			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/Janine/Desktop/SpringMVCCRUDSimple/WebContent/WEB-INF/lib/web/com.springsource.org.apache.commons.fileupload-1.2.0.jar">
+		<attributes>
+			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/Janine/Desktop/SpringMVCCRUDSimple/WebContent/WEB-INF/lib/web/com.springsource.org.apache.commons.httpclient-3.1.0.jar">
+		<attributes>
+			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/Janine/Desktop/SpringMVCCRUDSimple/WebContent/WEB-INF/lib/web/com.springsource.org.codehaus.jackson.mapper-1.0.0.jar">
+		<attributes>
+			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/Janine/Desktop/SpringMVCCRUDSimple/WebContent/WEB-INF/lib/web/org.springframework.oxm-3.0.1.RELEASE-A.jar">
+		<attributes>
+			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/Janine/Desktop/SpringMVCCRUDSimple/WebContent/WEB-INF/lib/web/org.springframework.web.portlet-3.0.1.RELEASE-A.jar">
+		<attributes>
+			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/Janine/Desktop/SpringMVCCRUDSimple/WebContent/WEB-INF/lib/web/org.springframework.web.servlet-3.0.1.RELEASE-A.jar">
+		<attributes>
+			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/Janine/Desktop/SpringMVCCRUDSimple/WebContent/WEB-INF/lib/web/org.springframework.web.struts-3.0.1.RELEASE-A.jar">
+		<attributes>
+			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/Janine/Desktop/SpringMVCCRUDSimple/WebContent/WEB-INF/lib/web/org.springframework.web-3.0.1.RELEASE-A.jar">
+		<attributes>
+			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/oraclexe/app/oracle/product/10.2.0/server/jdbc/lib/ojdbc14.jar">
+		<attributes>
+			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/oraclexe/app/oracle/product/10.2.0/server/jdbc/lib/ojdbc14_g.jar">
+		<attributes>
+			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/Janine/Desktop/SpringMVCCRUDSimple/WebContent/WEB-INF/lib/jstl-1.2.jar">
+		<attributes>
+			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="output" path="WebRoot/WEB-INF/classes"/>
+</classpath>
